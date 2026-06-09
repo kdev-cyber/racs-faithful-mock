@@ -185,3 +185,30 @@ main {
     font-size: 24px;
     font-weight: bold;
 }
+
+.sidebar-box details {
+    border-top: 1px solid #222222;
+    padding: 4px 0;
+}
+
+.sidebar-box summary {
+    color: #eaff57;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+.sidebar-box summary:hover {
+    color: #ffd84d;
+}
+
+.sidebar-box details a {
+    font-size: 14px;
+    padding: 3px;
+    color: #ffffff;
+}
+
+.sidebar-box details a:hover {
+    color: #eaff57;
+}
