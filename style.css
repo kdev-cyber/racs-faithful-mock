@@ -305,3 +305,31 @@ main {
     border: none;
     cursor: pointer;
 }
+
+.about-section {
+    background-color: #000000;
+    border: 1px solid #333333;
+    padding: 26px;
+    text-align: center;
+}
+
+.about-section h2 {
+    background-color: #333333;
+    color: #ffffff;
+    margin: -26px -26px 22px;
+    padding: 8px;
+    text-transform: uppercase;
+}
+
+.about-section p {
+    color: #ffff99;
+    font-size: 20px;
+    line-height: 1.4;
+    max-width: 850px;
+    margin: 0 auto 18px;
+}
+
+.about-tagline {
+    color: #eaff57;
+    font-weight: bold;
+}
