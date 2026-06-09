@@ -233,3 +233,75 @@ main {
     margin: 0;
     font-size: 18px;
 }
+
+.store-stuff-heading {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 8px;
+    border-left: 1px solid #333333;
+    border-right: 1px solid #333333;
+}
+
+.store-stuff-section {
+    background-color: #000000;
+    border: 1px solid #333333;
+    padding: 28px;
+    text-align: center;
+}
+
+.store-stuff-section h2 {
+    color: #eaff57;
+    font-size: 32px;
+    margin: 0 0 5px;
+    text-transform: uppercase;
+}
+
+.store-stuff-section h3 {
+    color: #eaff57;
+    font-size: 22px;
+    margin: 0 0 20px;
+    text-transform: uppercase;
+}
+
+.store-stuff-section p {
+    color: #ffffff;
+    max-width: 700px;
+    margin: 0 auto 18px;
+    line-height: 1.5;
+}
+
+.store-stuff-section a {
+    color: #eaff57;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.newsletter-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin-top: 18px;
+}
+
+.newsletter-form label {
+    color: #eaff57;
+    font-weight: bold;
+}
+
+.newsletter-form input {
+    width: 320px;
+    padding: 8px;
+    background-color: #ffffcc;
+    border: none;
+}
+
+.newsletter-form button {
+    padding: 8px 14px;
+    border: none;
+    cursor: pointer;
+}
