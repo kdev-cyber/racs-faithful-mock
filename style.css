@@ -212,3 +212,24 @@ main {
 .sidebar-box details a:hover {
     color: #eaff57;
 }
+
+.clearance-banner {
+    margin: 14px 0;
+    border: 1px solid #4a3a00;
+    background: linear-gradient(135deg, #ffcc33, #d98200);
+    color: #111111;
+    text-align: center;
+    padding: 22px;
+    font-weight: bold;
+}
+
+.clearance-banner h2 {
+    margin: 0 0 8px;
+    text-transform: uppercase;
+    color: #111111;
+}
+
+.clearance-banner p {
+    margin: 0;
+    font-size: 18px;
+}
