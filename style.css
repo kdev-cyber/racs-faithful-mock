@@ -13,20 +13,15 @@ body {
 }
 
 .logo-banner {
-    background: linear-gradient(135deg, #111111, #2b1b00);
+    background-color: #000000;
+    padding: 0;
     text-align: center;
-    padding: 35px 20px;
 }
 
-.logo-banner h1 {
-    color: #ffd84d;
-    margin: 0;
-    font-size: 42px;
-}
-
-.logo-banner p {
-    margin: 8px 0 0;
-    color: #dddddd;
+.logo-banner img {
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
 .utility-nav {
