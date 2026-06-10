@@ -82,16 +82,12 @@ main {
     font-size: 18px;
 }
 
-.showcase-image {
-    height: 145px;
-    background: radial-gradient(circle at top, #333333, #050505);
-    border-radius: 12px;
-    border: 1px solid #333333;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.category-character {
+    width: 100%;
+    height: 190px;
+    object-fit: contain;
+    display: block;
     margin-bottom: 8px;
-    color: #ffd84d;
 }
 
 .page-layout {
@@ -393,4 +389,15 @@ main {
     padding: 8px;
     margin: 18px -20px -20px;
     font-size: 14px;
+}
+
+.showcase-card {
+    color: #eaff57;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
