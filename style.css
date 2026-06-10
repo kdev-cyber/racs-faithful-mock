@@ -333,3 +333,53 @@ main {
     color: #eaff57;
     font-weight: bold;
 }
+
+.site-footer {
+    background-color: #000000;
+    border: 1px solid #333333;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-banner {
+    background: linear-gradient(135deg, #222222, #111111);
+    border: 1px solid #4a3a00;
+    color: #ffd84d;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    padding: 12px;
+    margin-bottom: 18px;
+}
+
+.footer-links {
+    margin-bottom: 16px;
+    line-height: 1.6;
+}
+
+.footer-links a {
+    color: #eaff57;
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 0 4px;
+}
+
+.small-links a {
+    color: #ffd84d;
+}
+
+.footer-message {
+    color: #eaff57;
+    font-style: italic;
+    font-size: 18px;
+    margin: 16px 0;
+}
+
+.copyright {
+    color: #ffffff;
+    background-color: #333333;
+    padding: 8px;
+    margin: 18px -20px -20px;
+    font-size: 14px;
+}
