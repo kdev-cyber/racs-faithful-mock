@@ -154,7 +154,7 @@ body {
 }
 
 .mini-product {
-    height: 130px;
+    height: 150px;
     border: 1px solid #333333;
     background: radial-gradient(circle at top, #333333, #111111);
     display: flex;
