@@ -108,6 +108,35 @@ body {
     font-size: 16px;
 }
 
+.promo-box {
+    padding-bottom: 10px;
+}
+
+.promo-box p {
+    color: #ffffff;
+    font-size: 13px;
+    line-height: 1.25;
+    padding: 8px 10px 4px;
+    margin: 0;
+}
+
+.promo-box a {
+    color: #eaff57;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.promo-box img {
+    width: 85%;
+    min-height: 38px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    background: linear-gradient(135deg, #44c7ff, #ff8b2b);
+    border-radius: 6px;
+    border: 1px solid #333333;
+}
+
 .main-content {
     background-color: #050505;
     border: 1px solid #333333;
