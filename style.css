@@ -299,6 +299,15 @@ body {
     font-size: 20px;
 }
 
+.store-stuff-image {
+    width: 360px;
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 8px;
+}
+
 .newsletter-form {
     display: flex;
     justify-content: center;
