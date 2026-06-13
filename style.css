@@ -357,6 +357,15 @@ body {
     margin: 0 auto 18px;
 }
 
+.dedication-line {
+    background-color: #333333;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 24px -26px -26px;
+    padding: 10px;
+}
+
 .about-tagline {
     color: #eaff57;
     font-weight: bold;
